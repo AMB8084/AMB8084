@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Amirmohammad Barari 👋</h1>
-  <p><strong>Computer Engineering Student @ University of Tehran | AI & LLM Researcher | Software Developer</strong></p>
+  <p><strong>Computer Engineering Student @ University of Tehran | AI & LLM Researcher | Systems & Software Developer</strong></p>
 
   [![Email](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:amirmohammadbarari133@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-AMB8084-181717?style=for-the-badge&logo=github)](https://github.com/AMB8084)
@@ -11,9 +11,21 @@
 ### 🚀 About Me
 - 🎓 **Undergraduate Student** in Computer Engineering (Software Engineering) at the **University of Tehran** (7th Semester).
 - 🔬 **Passionate Researcher** currently focusing on **Large Language Models (LLMs)**, specifically in **User Intent Detection & Recognition** and **Advanced Prompt Engineering**.
-- 🛠️ Hands-on experience developing intelligent systems in **NLP**, **Computer Vision**, and building scalable backend/system-level applications.
+- 🛠️ Hands-on experience developing intelligent systems in **NLP**, **Computer Vision**, and low-level / concurrent systems.
 - 👨‍🏫 **Teaching Assistant (TA)** for core CS courses: *Data Structures & Algorithms*, *Operating Systems*, and *Fundamentals of Programming*.
-- 🌐 Enthusiastic about open-source collaboration, systems engineering, and bridging intelligent models into production.
+- 🌐 Enthusiastic about open-source collaboration, systems programming, and bridging intelligent models into production.
+
+---
+
+### 📌 Featured & Pinned Repositories
+
+| Repository | Focus / Tech Stack | Description |
+| :--- | :--- | :--- |
+| [🧠 **Music-Playlist-Recommender**](https://github.com/AMB8084/Music-Playlist-Recommender) | `Python` `Machine Learning` `RecSys` | End-to-end music recommendation engine utilizing feature extraction and similarity metrics. |
+| [⚙️ **xv6-OperatingSystem-Assignments**](https://github.com/AMB8084/xv6-OperatingSystem-Assignments) | `C` `OS Kernel` `x86 / RISC-V` | Kernel enhancements to the MIT xv6 OS covering custom system calls, memory management, and process scheduling. |
+| [🤖 **Artificial-Intelligence-Assignments**](https://github.com/AMB8084/Artificial-Intelligence-Assignments-UT-Course-Spring2025) | `Python` `AI Algorithms` `Search` | Implementation of classic AI algorithms, adversarial search, CSP, and heuristics (UT Course Spring 2025). |
+| [📊 **Machine-Learning-Basics**](https://github.com/AMB8084/Machine-Learning-Basics-UT-Course-Fall2025) | `Python` `Scikit-Learn` `Data Science` | Core machine learning models, optimization, data preprocessing, and evaluation pipelines (UT Course Fall 2025). |
+| [🎮 **Plants-Vs-Zombies-Project**](https://github.com/AMB8084/Plants-Vs-Zombies-Project) | `Java` `OOP` `Design Patterns` | Object-oriented game architecture implementing clean design patterns, multithreading, and GUI logic. |
 
 ---
 
@@ -30,7 +42,7 @@
   <img src="https://img.shields.io/badge/NLP-Intent_Detection-success?style=flat-square" />
 </p>
 
-#### **Programming Languages & Web**
+#### **Programming Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -40,7 +52,7 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-#### **Infrastructure, Databases & Systems**
+#### **Systems, Databases & Tools**
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -51,17 +63,7 @@
 
 ---
 
-### 📌 Highlighted Projects & Research
-
-- 🤖 **LLM Research (Intent & Prompt):** Designing and evaluating prompting strategies to steer LLM behaviour and extract structured user intents accurately.
-- 👁️ **Computer Vision & Classification:** Deep learning pipelines built with PyTorch/TensorFlow featuring custom augmentation, fine-tuning, and evaluation.
-- 💬 **NLP & Text Mining:** Comprehensive data-driven pipelines for tokenization, sentiment analysis, and topic modeling.
-- 🌐 **Concurrent Network Services:** Multithreaded TCP socket chat and communication systems in C/C++.
-- 🗄️ **Data Management REST Services:** Clean OOP and design pattern implementations connecting to PostgreSQL/MySQL.
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AMB8084&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amirmohammad's GitHub Stats" />
