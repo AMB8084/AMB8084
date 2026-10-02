@@ -2,7 +2,6 @@
   <h1>Hi there, I'm Amirmohammad Barari 👋</h1>
   <p><strong>Computer Engineering Student @ University of Tehran | AI & LLM Researcher | Software Developer</strong></p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
   [![Email](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:amirmohammadbarari133@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-AMB8084-181717?style=for-the-badge&logo=github)](https://github.com/AMB8084)
 </div>
